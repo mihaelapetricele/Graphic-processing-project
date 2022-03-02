@@ -1,1 +1,2 @@
 models/ filter=lfs diff=lfs merge=lfs -text
+models/plane/*.obj filter=lfs diff=lfs merge=lfs -text
